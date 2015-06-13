@@ -2,3 +2,5 @@ archive
 node_modules
 dist
 .idea/workspace.xml
+*~
+

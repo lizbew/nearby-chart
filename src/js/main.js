@@ -55,7 +55,7 @@ require(['echarts', 'echarts/chart/bar', 'echarts/chart/pie'], function(ec){
             calculable : true,
             series: [
                 {
-                    name: '访问来源',
+                    name: 'Test',
                     type: 'pie',
                     radius: '55%',
                     center: ['50%', '60%'],
