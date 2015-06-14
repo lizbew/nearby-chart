@@ -270,3 +270,8 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+.chart-margin: {
+  margin: 8px;
+}
+
